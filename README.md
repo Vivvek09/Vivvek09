@@ -47,6 +47,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivvek09&theme=radical" alt="Vivek's GitHub Streak" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivvek09&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Vivvek09&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
