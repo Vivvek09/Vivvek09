@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Vivek Gangwani! 👋</h1>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="200"/>
-</p>
-
+---
 
 
 ## 🚀 About Me
@@ -68,9 +64,8 @@
 ## 📫 How to Reach Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/yourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/vivek-gangwani-8a434b25b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:vivekagangwani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
