@@ -57,7 +57,7 @@
 - **Frontend Development**: React.js, Next.js, Shadcn, Chakra UI, Material UI.
 - **Backend Development**: Node.js, Nest.js, RESTful APIs, GraphQL.
 - **Computer Vision**: OpenCV.
-- **Cloud Platforms**: AWS, Docker.
+- **Cloud Platforms**: AWS, Docker
 
 ---
 
