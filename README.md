@@ -44,7 +44,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivvek09&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Vivvek09&color=blue&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Vivvek09&color=red&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
