@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 🎓 **B.Tech Computer Engineering** | **Sardar Patel Institute of Technology, India**  
-💡 **Interested In**: AI/ML, Computer Vision, NLP and Web Development  
+💡 **Interested In**: AI/ML, Computer Vision, NLP and Software Engineering 
 
 ---
 
@@ -52,9 +52,8 @@
 
 ## ✨ Highlighted Skills
 
-- **Artificial Intelligence**: Deep Learning, GANs, NLP, Reinforcement Learning.
-- **Frontend Development**: React.js, Next.js, Shadcn, Chakra UI, Material UI.
-- **Backend Development**: Node.js, Nest.js, RESTful APIs, GraphQL.
+- **Artificial Intelligence**: Deep Learning, NLP, Reinforcement Learning.
+- **Software Engineering**: MERN, Python, Testing
 - **Computer Vision**: OpenCV.
 - **Cloud Platforms**: AWS, Docker
 
