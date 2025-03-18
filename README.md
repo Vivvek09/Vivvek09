@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 🎓 **B.Tech Computer Engineering** | **Sardar Patel Institute of Technology, India**  
-💡 **Interested In**: AI/ML, Computer Vision, NLP and Software Engineering 
+💡 **Interested In**: NLP, Computer Vision and Software Engineering 
 
 ---
 
@@ -49,16 +49,6 @@
 ---
 
 
-
-## ✨ Highlighted Skills
-
-- **Artificial Intelligence**: Deep Learning, NLP, Reinforcement Learning.
-- **Software Engineering**: MERN, Python, Testing
-- **Computer Vision**: OpenCV.
-- **Cloud Platforms**: AWS, Docker
-
----
-
 ## 📫 How to Reach Me
 
 <p align="center">
@@ -68,13 +58,6 @@
 
 ---
 
-
-
-## 🤝 Let's Collaborate!
-
-I'm always open to new opportunities, collaborations, and discussions about tech, AI, and beyond. Feel free to drop me a message if you have an idea or just want to chat about the latest in AI!
-
----
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/Vivvek09?style=social" alt="GitHub Followers" />
