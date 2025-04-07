@@ -38,7 +38,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vivvek09&show_icons=true&theme=radical" alt="Vivek's GitHub stats" width="48%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivvek09&theme=radical" alt="Vivek's GitHub Streak" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivvek09&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
