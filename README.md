@@ -36,7 +36,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+[![An image of @vivvek09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivvek09)](https://holopin.io/@vivvek09)
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivvek09&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
