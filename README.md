@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 🎓 **B.Tech Computer Engineering** | **Sardar Patel Institute of Technology, India**  
-💡 **Interested In**: NLP, Computer Vision and Software Engineering 
+💡 **Interested In**: Vision Language Models and Data Science
 
 ---
 
